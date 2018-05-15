@@ -1,0 +1,17 @@
+C:\vaje\regg\regg\bin\Debug\regg.exe.config
+C:\vaje\regg\regg\bin\Debug\reg.mdf
+C:\vaje\regg\regg\bin\Debug\reg_log.ldf
+C:\vaje\regg\regg\bin\Debug\regg.exe
+C:\vaje\regg\regg\bin\Debug\regg.pdb
+C:\vaje\regg\regg\bin\Debug\Dapper.dll
+C:\vaje\regg\regg\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\vaje\regg\regg\bin\Debug\Dapper.xml
+C:\vaje\regg\regg\obj\Debug\regg.csprojResolveAssemblyReference.cache
+C:\vaje\regg\regg\obj\Debug\regg.Properties.Resources.resources
+C:\vaje\regg\regg\obj\Debug\regg.csproj.GenerateResource.Cache
+C:\vaje\regg\regg\obj\Debug\regg.exe
+C:\vaje\regg\regg\obj\Debug\regg.pdb
+C:\vaje\regg\regg\obj\Debug\regg.DodajOsebo.resources
+C:\vaje\regg\regg\bin\Debug\EntityFramework.dll
+C:\vaje\regg\regg\bin\Debug\EntityFramework.xml
+C:\vaje\regg\regg\obj\Debug\regg.GlavnoOkno.resources
